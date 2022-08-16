@@ -16,3 +16,6 @@
 - 😄 Pronomes:ele/dele ...
 - ⚡ tatakae ...
 -->
+
+![image](https://user-images.githubusercontent.com/110928978/184942306-a899dd43-61d7-46a8-b306-0550991f295a.png)
+
